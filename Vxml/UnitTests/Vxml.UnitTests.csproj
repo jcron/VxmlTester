@@ -49,13 +49,13 @@
     <Compile Include="VxmlPageTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\VXMLTest\VXMLTest.csproj">
+    <ProjectReference Include="..\Tester\Vxml.Tester.csproj">
       <Project>{6B0DE298-CD44-41C3-9ECC-042EDA74FD54}</Project>
-      <Name>VXMLTest</Name>
+      <Name>Vxml.Tester</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Vxml\Vxml.csproj">
+    <ProjectReference Include="..\Vxml.csproj">
       <Project>{059623A5-610D-445F-94DE-A1B52056B0F5}</Project>
-      <Name>Vxml</Name>
+      <Name>Vxml %28Vxml\Vxml%29</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

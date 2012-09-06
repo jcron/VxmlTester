@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using VxmlTest;
+using Vxml.Tester;
 
-namespace VXMLTester
+namespace Vxml.Tester
 {
     internal class Program
     {

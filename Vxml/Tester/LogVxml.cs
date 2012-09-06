@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Vxml;
 
-namespace VxmlTest
+namespace Vxml.Tester
 {
     public static class LogVxml
     {

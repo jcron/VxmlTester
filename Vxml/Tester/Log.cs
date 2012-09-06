@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace VxmlTest
+namespace Vxml.Tester
 {
     public static class Log
     {

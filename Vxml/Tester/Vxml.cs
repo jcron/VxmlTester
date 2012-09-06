@@ -6,7 +6,7 @@ using System.Net;
 using System.Xml;
 using Vxml;
 
-namespace VxmlTest
+namespace Vxml.Tester
 {
     public class Vxml
     {
