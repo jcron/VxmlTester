@@ -3,7 +3,7 @@ VxmlTester
 
 Console application to traverse vxml pages
 
-VS2012 solution using the .NET 4 framework
+VS2012 solution using the .NET 4 framework, can also use VS2010
 
 Modify the app.config file to point to the server/initial url.
 
